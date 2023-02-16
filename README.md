@@ -1,2 +1,2 @@
 # Python Projects
-Projects using Python language.
+This repository contains some projects using Python language.
